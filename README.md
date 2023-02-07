@@ -12,14 +12,14 @@ I'm a C++ Developer, currently at the last stretch of my Master's Degree studies
 
 ### Current projects
 
-[] Graph library: 
+- [ ] Graph library: 
   - Got inspiration from a university project
   - Library offering adjacency matrix and adjacency list representations with basic interface (currently during a major refactor)
   - Class offering a handful of basic graph algorithms (work in progress)
   - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
   - Refactored and developed using TDD
 
-[] CPM Solver:
+- [ ] CPM Solver:
   - Simple Critical Path Method for job sequence optimization
   - Can be used to plan concurrent job execution in a company / industrial environment
   - Planned to be extended with CPM-Cost method
