@@ -8,7 +8,7 @@ I'm a C++ Developer, currently at the last stretch of my 🎓 Master's Degree st
 
 - Intern / Junior C++ Embedded Developer at Heavy Kinematic Machines, Zielona Góra, Poland;
 - Science assistant, Leibnitz Institute for High Performance Microelectronics, Frankfurt at Oder;
-- Sooftware Engineer, Nokia Solutions and Networks, Wrocław, Poland.
+- Software Engineer, Nokia Solutions and Networks, Wrocław, Poland.
 
 ### 💻 Projects
 
