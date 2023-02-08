@@ -32,4 +32,4 @@ My main projects include:
 If you have any questions, suggestions or cooperation propositions regarding my projects, feel free to contact me via email:
   - k.woj.coding@gmail.com
 
-Any stars ⭐ and follows 👁️ would be appeciated :)
+Any stars ⭐ and follows 👁️ would be appeciated 😃
