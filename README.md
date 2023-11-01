@@ -6,9 +6,9 @@ I'm a C++ Developer, and an M.CS, graduated from the [University of Zielona Gór
 
 # 👨‍💼 Career overview
 
-- **<Currently>** Software Engineer, Nokia Solutions and Networks, Wrocław, Poland.
-- Science assistant, Leibnitz Institute for High Performance Microelectronics, Frankfurt at Oder;
-- Intern / Junior C++ Embedded Developer at Heavy Kinematic Machines, Zielona Góra, Poland;
+- [x] (1.12.2022 - now) Software Engineer, Nokia Solutions and Networks, Wrocław, Poland.
+- [ ] (Science assistant, Leibnitz Institute for High Performance Microelectronics, Frankfurt at Oder;
+- [ ] Intern / Junior C++ Embedded Developer at Heavy Kinematic Machines, Zielona Góra, Poland;
 
 Feel free to check my [LinkedIn](https://www.linkedin.com/in/kacper-wojciechowski-knik-uz/) for more detailed information.
 
@@ -16,12 +16,14 @@ Feel free to check my [LinkedIn](https://www.linkedin.com/in/kacper-wojciechowsk
 
 My main projects include:
 
+> NOTE: Graph library currently on hold 
 - [ ] Graph library: 
   - Got inspiration from a university project
   - Library offering adjacency matrix and adjacency list representations with basic interface (currently during a major refactor)
   - Class offering a handful of basic graph algorithms (work in progress)
-  - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
-  - Refactored and developed using TDD
+  - ***Currently under a refactor***
+  - To be introduced:
+    - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
 
 - [ ] CPM Solver:
   - Simple Critical Path Method for job sequence optimization
