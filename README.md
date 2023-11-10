@@ -6,8 +6,8 @@ I'm a C++ Developer, and an M.CS, graduated from the [University of Zielona Gór
 
 # 👨‍💼 Career overview
 
-- [x] (1.12.2022 - now) Software Engineer, Nokia Solutions and Networks, Wrocław, Poland.
-- [ ] (Science assistant, Leibnitz Institute for High Performance Microelectronics, Frankfurt at Oder;
+- [x] Software Engineer, Nokia Solutions and Networks, Wrocław, Poland.
+- [ ] Science assistant, Leibnitz Institute for High Performance Microelectronics, Frankfurt at Oder;
 - [ ] Intern / Junior C++ Embedded Developer at Heavy Kinematic Machines, Zielona Góra, Poland;
 
 Feel free to check my [LinkedIn](https://www.linkedin.com/in/kacper-wojciechowski-knik-uz/) for more detailed information.
