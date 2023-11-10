@@ -1,7 +1,5 @@
 # ❔ About me
 
-- 👋 Hi, I’m Kacper Wojciechowski
-
 I'm a C++ Developer, and an M.CS, graduated from the [University of Zielona Góra](https://wiea.uz.zgora.pl/), Poland. I'm interrested in programming, IoT, general STEM (such as astrophysics, math, etc.), japanese and video games. In my free time I play video games, code private projects from time to time, and take part in [Space Engineering Science Club](https://www.facebook.com/KNIKUZ) (feel free to check them out 😉). I used to work with embedded platforms such as STM32, Arduino and ESP8266 at the start of my career. In December 2022 I shifted to more high-level programming, using OOP paradigm, and started learning TDD as a way for creating more flexible and reliable software, making embedded programming more of a hobby.
 
 # 👨‍💼 Career overview
