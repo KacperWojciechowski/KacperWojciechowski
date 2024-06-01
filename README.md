@@ -30,7 +30,7 @@ My main projects include:
     - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
 
 > NOTE: CPM Solver currently on hold
-- [ ] CPM Solver: (v.0.1
+- [ ] CPM Solver: (v.0.1)
   - Simple Critical Path Method for job sequence optimization
   - Can be used to plan concurrent job execution in a company / industrial environment
   - Planned to be extended with CPM-Cost method
