@@ -37,7 +37,7 @@ My main projects include:
   - Possibly gonna change into a simple optimization library when Simplex and Brown algorithm will be included
 
 # Personal backlog
-- [ ] Complete the translation of my master's thesis;
+- [x] Complete the translation of my master's thesis;
 - [ ] Make a personal website;
 - [ ] Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
 - [ ] Drop current CPM Solver partial implementation, ship the initial basic implementation and refactor it;
