@@ -82,23 +82,29 @@ My previous jobs:
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacperWojciechowski&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-### Languages:
 
+<div align="center">
+   
+### Languages:
+   
 | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="30" height="30"/> | TTCN3 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30">
 |-----|-----|-----|-----|
 | <div align="left"><ul><li>Standards: 11, 14, 17, 20</li><li>STL containers and algorithms</li><li>Concurrency</li><li>Metaprogramming</li><li>GTest</li><li>SOLID</li><li>CMake</li></ul></div> | <div align="left"><ul><li>Flow containers</li><li>Templates</li><li>Testsuites and modules</li></ul></div> | <div align="left"><ul><li>C++98 standard</li></ul></div> | <div align="left"><ul><li>Java 8</li><li>Socket networking</li><li>Concurrency</li><li>JUnit</li><li>Dependency management</li></ul></div> |
- 
+<br>
+
 ### Hardware:
 
 | STM32 | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="30" height="30"/> | Texas Instruments | Hardware Tools |
 |-----|-----|-----|-----|
 | <div align="left"><ul><li>HAL</li><li>FreeRTOS</li><li>Registers</li><li>Bare metal</li><li>UART</li><li>Timers</li><li>Interrupts</li><li>PWM controlling</li><li>DMA</li></ul></div>| <div align="left"><ul><li>GPIO</li><li>PWM controlling</li><li>Interrupts</li><li>State machine</li><li>OOP concurrent control design</li><li>UART, I2C</li></ul></div> | <div align="left"><ul><li>TI-RTOS</li></ul></div> | <div align="left"><ul><li>Soldering</li><li>Osciloscope</li></ul></div>
+<br>
 
 ### Environment:
 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git"  alt="Git" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="30" height="30"/> |
 |-----|-----|
 | <div align="left"><ul><li>GitHub</li><li>GitLab</li><li>BitBucket</li><li>Gerrit</li></ul></div> | <div align="left"><ul><li>Ubuntu</li></ul></div> |
+</div>
 
 # 💻 Projects
 
