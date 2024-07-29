@@ -110,27 +110,29 @@ My previous jobs:
 
 My main projects include:
 
-- [ ] Road To The Centre: (v.1.0)
+- [ ] [Road To The Centre](https://github.com/KacperWojciechowski/RoadToTheCentre): (v.1.0)
+  - `C++20, CMake, GTest`
   - Made as a part of an amateur game jam between friends
   - A text-based economic game where the goal is to travel to the center of the galaxy
   - Made in a scallable way, allowing for implementing new features and mechanics
   - Basic idea inspired by the Spore game
 
-> NOTE: Graph library currently on hold 
-- [ ] Graph library: (v.0.5) 
+> NOTE: Graph library currently under major refactor from v0.1 revert 
+- [ ] [Graph library](https://github.com/KacperWojciechowski/Graphs): (v.0.5)
+  - `C++20, CMake, GTest` 
   - Got inspiration from a university project
-  - Library offering adjacency matrix and adjacency list representations with basic interface (currently during a major refactor)
-  - Class offering a handful of basic graph algorithms (work in progress)
-  - ***Currently under a refactor***
+  - Library offering different graph representations with basic interface
+  - Basic graph algorithms class
   - To be introduced:
     - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
-
-> NOTE: CPM Solver currently on hold
-- [ ] CPM Solver: (v.0.1)
-  - Simple Critical Path Method for job sequence optimization
-  - Can be used to plan concurrent job execution in a company / industrial environment
-  - Planned to be extended with CPM-Cost method
-  - Possibly gonna change into a simple optimization library when Simplex and Brown algorithm will be included
+   
+- [ ] [DungeonCrawler](https://github.com/KacperWojciechowski/DungeonCrawler): (v.1.0 - final)
+  - `Java, Maven`
+  - Network dungeon crawler game based on client-server model
+  - The game state is controled and validated via server
+  - Each player action sends a request which is then validated on the server side
+  - Custom graph-based map generation and representation
+  - Message-based communication between client and server using JSON
 
 # 🧑‍🔬 Research
 
@@ -139,7 +141,7 @@ My main projects include:
 # Personal backlog
 - [x] Complete the translation of my master's thesis;
 - [ ] Make a personal website;
-- [ ] Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
+- [ ] `(ongoing)` Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
 - [ ] Drop current CPM Solver partial implementation, ship the initial basic implementation and refactor it;
 - [ ] Expand RoadsToTheCentre functionatilies;
 
