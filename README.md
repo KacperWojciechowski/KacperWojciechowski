@@ -103,7 +103,7 @@ My previous jobs:
 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git"  alt="Git" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="30" height="30"/> |
 |-----|-----|
-| <div align="left"><ul><li>GitHub</li><li>GitLab</li><li>BitBucket</li><li>Gerrit</li></ul></div> | <div align="left"><ul><li>Ubuntu</li></ul></div> |
+| <div align="left"><ul><li>GitHub</li><li>GitLab</li><li>BitBucket</li><li>Gerrit</li></ul></div> | <div align="left"><ul><li>Ubuntu</li><li>WSL2</li></ul></div> |
 </div>
 
 # 💻 Projects
