@@ -142,7 +142,9 @@ My main projects include:
 - [x] Complete the translation of my master's thesis;
 - [ ] Make a personal website;
 - [ ] `(ongoing)` Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
-- [ ] Drop current CPM Solver partial implementation, ship the initial basic implementation and refactor it;
+- [ ] Move CPM initial implementation to the Graph project and refactor it accordingly;
+- [ ] Make C++ include sanitizer;
+- [ ] Make TTCN3 formatter;
 - [ ] Expand RoadsToTheCentre functionatilies;
 
 # 📫 Contact
