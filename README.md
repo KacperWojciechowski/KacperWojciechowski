@@ -140,12 +140,12 @@ My main projects include:
 
 # Personal backlog
 - [x] Complete the translation of my master's thesis;
-- [ ] Make a personal website;
+- [x] Make a personal website;
 - [ ] `(ongoing)` Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
 - [ ] Move CPM initial implementation to the Graph project and refactor it accordingly;
 - [ ] Make C++ include sanitizer;
 - [ ] Make TTCN3 formatter;
-- [ ] Expand RoadsToTheCentre functionatilies;
+- [ ] Make VTT (Virtual Table Top) engine for TT RPGs
 
 # 📫 Contact
 
