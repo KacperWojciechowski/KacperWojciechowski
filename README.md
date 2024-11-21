@@ -11,7 +11,7 @@ My additional activities within the science club included training new members a
 
 # 👨‍💼 Career overview
 
-Details about my education and experience can be checked at [my personal website](kacperwojciechowski.com). Feel free to also check out my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-wojciechowski-knik-uz/).
+Details about my education and experience can be checked at [my personal website](https://kacperwojciechowski.com). Feel free to also check out my [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-wojciechowski-knik-uz/).
 
 # 🛰️ Technical stack
 
