@@ -1,10 +1,13 @@
 # ❔ About me
 
-I'm a C++ Software Engineer, and an M.CS, graduated from the [University of Zielona Góra](https://wiea.uz.zgora.pl/), Poland. 
+Hello, my name is Kacper!
 
-I'm interrested in programming, IoT, general STEM (such as astrophysics, math, etc.), japanese and video games. I spend my free time playing and coding private projects from time to time. 
+I'm a C++ software enginner, with a Master's degree in Computer Science, graduated from the [University of Zielona Góra](https://uz.zgora.pl/), Poland, at the [Faculty of Computer, Electrical and Control Engineering](https://wiea.uz.zgora.pl/).
 
-For a couple of years I took part in [Space Engineering Science Club](https://www.facebook.com/KNIKUZ). I used to work with embedded platforms such as STM32, Arduino and ESP8266 at the start of my career. In December 2022 I shifted to more high-level programming, using OOP paradigm, and started learning TDD as a way for creating more flexible and reliable software, making embedded programming more of a hobby.
+My main interrests include programming both in high and low abstraction levels, IoT, general STEM (such as physics, maths, astronomy and so on) and video games. I spend my free time playing and coding private projects from time to time.
+
+For a couple of years I was an active member of [Space Engineering Science Club](https://knik.spaceregion.eu/) at my university, where I was the team leader of the software and electronics teams. The primary project I took part in and overseen the progress of was a marsian rover prototype, based on STM microcontrollers. I was responsible for the software architecture, communication design between components, and electrical design of the rover.
+My additional activities within the science club included training new members and organizing programming and electronics workshops for middle school students during classes in colaboration with [The Space Research Centre of the Polish Academy of Sciences](https://cbkpan.pl/) (CBK PAN).
 
 # 👨‍💼 Career overview
 
