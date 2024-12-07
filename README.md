@@ -25,14 +25,13 @@ Detailed and up-to-date overview of my technical stack and know-how can be found
 
 My main projects include:
 
-- [ ] [Road To The Centre](https://github.com/KacperWojciechowski/RoadToTheCentre): (v.1.0)
+- [x] [Road To The Centre](https://github.com/KacperWojciechowski/RoadToTheCentre): (v.1.0)
   - `C++20, CMake, GTest`
   - Made as a part of an amateur game jam between friends
   - A text-based economic game where the goal is to travel to the center of the galaxy
   - Made in a scallable way, allowing for implementing new features and mechanics
   - Basic idea inspired by the Spore game
 
-> NOTE: Graph library currently under major refactor from v0.1 revert 
 - [ ] [Graph library](https://github.com/KacperWojciechowski/Graphs): (v.0.5)
   - `C++20, CMake, GTest` 
   - Got inspiration from a university project
@@ -41,7 +40,7 @@ My main projects include:
   - To be introduced:
     - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
    
-- [ ] [DungeonCrawler](https://github.com/KacperWojciechowski/DungeonCrawler): (v.1.0 - final)
+- [x] [DungeonCrawler](https://github.com/KacperWojciechowski/DungeonCrawler): (v.1.0 - final)
   - `Java, Maven`
   - Network dungeon crawler game based on client-server model
   - The game state is controled and validated via server
@@ -56,8 +55,9 @@ My main projects include:
 # Personal backlog
 - [x] Complete the translation of my master's thesis;
 - [x] Make a personal website;
-- [ ] `(ongoing)` Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
-- [ ] Move CPM initial implementation to the Graph project and refactor it accordingly;
+- [x] `(ongoing)` Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
+- [ ] Implement remaining GraphCake features in the issues backlog;
+- [ ] Move CPM initial implementation to the GraphCake project and refactor it accordingly;
 - [ ] Make VTT (Virtual Table Top) engine for TT RPGs in Rust;
 
 # 📫 Contact
