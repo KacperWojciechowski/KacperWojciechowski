@@ -32,13 +32,15 @@ My main projects include:
   - Made in a scallable way, allowing for implementing new features and mechanics
   - Basic idea inspired by the Spore game
 
-- [ ] [Graph library](https://github.com/KacperWojciechowski/Graphs): (v.0.5)
+- [ ] [GraphCake](https://github.com/KacperWojciechowski/Graphs): (v.1.0)
   - `C++20, CMake, GTest` 
   - Got inspiration from a university project
   - Library offering different graph representations with basic interface
-  - Basic graph algorithms class
+  - Basic graph algorithms classes
   - To be introduced:
     - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
+    - A variety of algorithms
+    - CPM optimization algorithm
    
 - [x] [DungeonCrawler](https://github.com/KacperWojciechowski/DungeonCrawler): (v.1.0 - final)
   - `Java, Maven`
