@@ -52,13 +52,13 @@ My main projects include:
 
 # 🧑‍🔬 Research
 
-- [ ] [Comparative Analysis of Machine Learning Libraries in C++ for Applications in Biostatistics](https://www.researchgate.net/publication/382162127_Comparative_Analysis_of_Machine_Learning_Libraries_in_C_for_Applications_in_Biostatistics)
+- [x] [Comparative Analysis of Machine Learning Libraries in C++ for Applications in Biostatistics](https://www.researchgate.net/publication/382162127_Comparative_Analysis_of_Machine_Learning_Libraries_in_C_for_Applications_in_Biostatistics)
 
 # Personal backlog
 - [x] Complete the translation of my master's thesis;
 - [x] Make a personal website;
-- [x] `(ongoing)` Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
-- [ ] Implement remaining GraphCake features in the issues backlog;
+- [x] Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
+- [ ] `(ongoing)` Implement remaining GraphCake features in the issues backlog;
 - [ ] Move CPM initial implementation to the GraphCake project and refactor it accordingly;
 - [ ] Make VTT (Virtual Table Top) engine for TT RPGs in Rust;
 
