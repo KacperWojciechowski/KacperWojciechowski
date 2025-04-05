@@ -25,13 +25,6 @@ Detailed and up-to-date overview of my technical stack and know-how can be found
 
 My main projects include:
 
-- [x] [Road To The Centre](https://github.com/KacperWojciechowski/RoadToTheCentre): (v.1.0)
-  - `C++20, CMake, GTest`
-  - Made as a part of an amateur game jam between friends
-  - A text-based economic game where the goal is to travel to the center of the galaxy
-  - Made in a scallable way, allowing for implementing new features and mechanics
-  - Basic idea inspired by the Spore game
-
 - [ ] [GraphCake](https://github.com/KacperWojciechowski/Graphs): (v.1.0)
   - `C++20, CMake, GTest` 
   - Got inspiration from a university project
@@ -41,6 +34,13 @@ My main projects include:
     - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
     - A variety of algorithms
     - CPM optimization algorithm
+
+- [x] [Road To The Centre](https://github.com/KacperWojciechowski/RoadToTheCentre): (v.1.0)
+  - `C++20, CMake, GTest`
+  - Made as a part of an amateur game jam between friends
+  - A text-based economic game where the goal is to travel to the center of the galaxy
+  - Made in a scallable way, allowing for implementing new features and mechanics
+  - Basic idea inspired by the Spore game
    
 - [x] [DungeonCrawler](https://github.com/KacperWojciechowski/DungeonCrawler): (v.1.0 - final)
   - `Java, Maven`
@@ -52,10 +52,12 @@ My main projects include:
 
 # 🧑‍🔬 Research
 
+- [x] [Methods of Implementing a Network Interface in IoT Modules](https://www.researchgate.net/publication/390465807_Methods_of_implementing_a_network_interface_in_IoT_modules)
 - [x] [Comparative Analysis of Machine Learning Libraries in C++ for Applications in Biostatistics](https://www.researchgate.net/publication/382162127_Comparative_Analysis_of_Machine_Learning_Libraries_in_C_for_Applications_in_Biostatistics)
 
 # Personal backlog
 - [x] Complete the translation of my master's thesis;
+- [x] Complete the translation of my bachelor's thesis; 
 - [x] Make a personal website;
 - [x] Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
 - [ ] `(ongoing)` Implement remaining GraphCake features in the issues backlog;
