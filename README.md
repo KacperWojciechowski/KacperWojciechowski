@@ -2,11 +2,7 @@
 
 Hello, my name is Kacper!
 
-I'm a C++ software enginner, with a Master's degree in Computer Science, graduated from the [University of Zielona Góra](https://uz.zgora.pl/), Poland, at the [Faculty of Computer, Electrical and Control Engineering](https://wiea.uz.zgora.pl/).
-
-My main interrests include programming both in high and low abstraction levels, IoT, general STEM (especially physics, maths and astronomy) and video games.
-
-For a couple of years I was an active member of [Space Engineering Science Club](https://knik.spaceregion.eu/) at my university, where I was the team leader of the software and electronics teams. The primary project I took part in and overseen the progress of was a marsian rover prototype, using STM32 microcontrollers as the main platform. I was responsible for the software architecture, communication design between components, and electrical design of the rover.
+I'm a C++ software enginner, with a Master's degree in Computer Science, graduated from the [University of Zielona Góra](https://uz.zgora.pl/), Poland, at the [Faculty of Computer, Electrical and Control Engineering](https://wiea.uz.zgora.pl/). My main interrests include programming both in high and low abstraction levels, IoT, general STEM (especially physics, maths and astronomy) and video games. For a couple of years I was an active member of [Space Engineering Science Club](https://knik.spaceregion.eu/) at my university, where I was the team leader of the software and electronics teams. The primary project I took part in and overseen the progress of was a marsian rover prototype, using STM32 microcontrollers as the main platform. I was responsible for the software architecture, communication design between components, and electrical design of the rover.
 My additional activities within the science club included training new members and organizing programming and electronics workshops for middle school students during classes in colaboration with [The Space Research Centre of the Polish Academy of Sciences](https://cbkpan.pl/) (CBK PAN).
 
 # 👨‍💼 Career overview
