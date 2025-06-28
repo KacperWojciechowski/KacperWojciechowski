@@ -32,7 +32,7 @@ My main projects include:
   
   Library offering various graph algorithms including vertex coloring, path finding and critical path method.
 
-- [x] [Road To The Centre](https://github.com/KacperWojciechowski/RoadToTheCentre):
+- [x] [Road To The Center](https://github.com/KacperWojciechowski/RoadToTheCentre):
   > C++20, CMake, GTest
   
   A text-based economic game where the goal is to travel to the center of the galaxy, made during an amateur game jam between me and my friends
