@@ -4,9 +4,9 @@ Hello, my name is Kacper!
 
 I'm a C++ software enginner, with a Master's degree in Computer Science, graduated from the [University of Zielona Góra](https://uz.zgora.pl/), Poland, at the [Faculty of Computer, Electrical and Control Engineering](https://wiea.uz.zgora.pl/).
 
-My main interrests include programming both in high and low abstraction levels, IoT, general STEM (such as physics, maths, astronomy and so on) and video games. I spend my free time playing and coding private projects from time to time.
+My main interrests include programming both in high and low abstraction levels, IoT, general STEM (especially physics, maths and astronomy) and video games.
 
-For a couple of years I was an active member of [Space Engineering Science Club](https://knik.spaceregion.eu/) at my university, where I was the team leader of the software and electronics teams. The primary project I took part in and overseen the progress of was a marsian rover prototype, based on STM microcontrollers. I was responsible for the software architecture, communication design between components, and electrical design of the rover.
+For a couple of years I was an active member of [Space Engineering Science Club](https://knik.spaceregion.eu/) at my university, where I was the team leader of the software and electronics teams. The primary project I took part in and overseen the progress of was a marsian rover prototype, using STM32 microcontrollers as the main platform. I was responsible for the software architecture, communication design between components, and electrical design of the rover.
 My additional activities within the science club included training new members and organizing programming and electronics workshops for middle school students during classes in colaboration with [The Space Research Centre of the Polish Academy of Sciences](https://cbkpan.pl/) (CBK PAN).
 
 # 👨‍💼 Career overview
@@ -23,50 +23,34 @@ Detailed and up-to-date overview of my technical stack and know-how can be found
 
 # 💻 Projects
 
+> - [x] marks completed status
+
 My main projects include:
 
-- [ ] [GraphCake](https://github.com/KacperWojciechowski/Graphs): (v.1.0)
-  - `C++20, CMake, GTest` 
-  - Got inspiration from a university project
-  - Library offering different graph representations with basic interface
-  - Basic graph algorithms classes
-  - To be introduced:
-    - Benchmark class for efficiency tests of various algorithms, with algorithm execution logging option
-    - A variety of algorithms
-    - CPM optimization algorithm
+- [ ] [GraphCake](https://github.com/KacperWojciechowski/Graphs):
+  > C++20, CMake, GTest 
+  
+  Library offering various graph algorithms including vertex coloring, path finding and critical path method.
 
-- [x] [Road To The Centre](https://github.com/KacperWojciechowski/RoadToTheCentre): (v.1.0)
-  - `C++20, CMake, GTest`
-  - Made as a part of an amateur game jam between friends
-  - A text-based economic game where the goal is to travel to the center of the galaxy
-  - Made in a scallable way, allowing for implementing new features and mechanics
-  - Basic idea inspired by the Spore game
+- [x] [Road To The Centre](https://github.com/KacperWojciechowski/RoadToTheCentre):
+  > C++20, CMake, GTest
+  
+  A text-based economic game where the goal is to travel to the center of the galaxy, made during an amateur game jam between me and my friends
    
-- [x] [DungeonCrawler](https://github.com/KacperWojciechowski/DungeonCrawler): (v.1.0 - final)
-  - `Java, Maven`
-  - Network dungeon crawler game based on client-server model
-  - The game state is controled and validated via server
-  - Each player action sends a request which is then validated on the server side
-  - Custom graph-based map generation and representation
-  - Message-based communication between client and server using JSON
-
+- [x] [DungeonCrawler](https://github.com/KacperWojciechowski/DungeonCrawler):
+  > Java, Maven
+  
+  Network dungeon crawler game based on client-server model, utilizing a custom random map generation algorithm
+  
 # 🧑‍🔬 Research
 
-- [x] [Methods of Implementing a Network Interface in IoT Modules](https://www.researchgate.net/publication/390465807_Methods_of_implementing_a_network_interface_in_IoT_modules)
-- [x] [Comparative Analysis of Machine Learning Libraries in C++ for Applications in Biostatistics](https://www.researchgate.net/publication/382162127_Comparative_Analysis_of_Machine_Learning_Libraries_in_C_for_Applications_in_Biostatistics)
-
-# Personal backlog
-- [x] Complete the translation of my master's thesis;
-- [x] Complete the translation of my bachelor's thesis; 
-- [x] Make a personal website;
-- [x] Drop current Graphs partial implementation, ship the initial basic implementation and refactor it;
-- [ ] `(ongoing)` Implement remaining GraphCake features in the issues backlog;
-- [ ] Move CPM initial implementation to the GraphCake project and refactor it accordingly;
-- [ ] Make VTT (Virtual Table Top) engine for TT RPGs in Rust;
+Thesis:
+- [x] B.CS: [Methods of Implementing a Network Interface in IoT Modules](https://www.researchgate.net/publication/390465807_Methods_of_implementing_a_network_interface_in_IoT_modules)
+- [x] M.CS: [Comparative Analysis of Machine Learning Libraries in C++ for Applications in Biostatistics](https://www.researchgate.net/publication/382162127_Comparative_Analysis_of_Machine_Learning_Libraries_in_C_for_Applications_in_Biostatistics)
 
 # 📫 Contact
 
 If you have any questions, suggestions or cooperation propositions regarding my projects, feel free to contact me via email:
-  - k.woj.coding@gmail.com
+  - `k.woj.coding@gmail.com`
 
 Any stars ⭐ and follows 👁️ would be appeciated 😃
