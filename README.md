@@ -23,7 +23,7 @@ Detailed and up-to-date overview of my technical stack and know-how can be found
 
 My main projects include:
 
-- [ ] [GraphCake](https://github.com/KacperWojciechowski/Graphs):
+- [x] [GraphCake](https://github.com/KacperWojciechowski/Graphs):
   > C++20, CMake, GTest 
   
   Library offering various graph algorithms including vertex coloring, path finding and critical path method.
