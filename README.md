@@ -19,7 +19,7 @@ Detailed and up-to-date overview of my technical stack and know-how can be found
 
 # 💻 Projects
 
-> - [x] marks completed status
+> - [x] marks project as "finished" (completed / abandoned)
 
 My main projects include:
 
