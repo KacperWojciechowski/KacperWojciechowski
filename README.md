@@ -11,9 +11,58 @@ Details about my education and experience can be checked at [my personal website
 
 # 🛰️ Technical stack
 
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacperWojciechowski&size_weight=1&count_weight=0&layout=compact&theme=vision-friendly-dark&exclude_repo=KacperWojciechowski.github.io,KacperWojciechowski,STM32_ESP8266_Echo_Server,University_projects">
-</p>
+<div align="center">
+  <table style="margin: 0 auto">
+    <tr>
+      <th>Languages</th>
+      <th>Build systems</th>
+      <th>OS and containers</th>
+      <th>Devices</th>
+      <th>Frameworks</th>
+      <th>Tools</th>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>CMake</td>
+      <td>Linux (Ubuntu, Arch)</td>
+      <td>STM32</td>
+      <td>GTest</td>
+      <td>Clang-format</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>Ceedling</td>
+      <td>Windows XP-11</td>
+      <td>Arduino</td>
+      <td>CMock</td>
+      <td>Clang-tidy</td>
+    </tr>
+    <tr>
+      <td>Bash</td>
+      <td></td>
+      <td>Docker</td>
+      <td></td>
+      <td>HAL</td>
+      <td>Gdb</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td></td>
+      <td>FreeRTOS</td>
+      <td></td>
+      <td></td>
+      <td>Objdump</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td></td>
+      <td>TI-RTOS</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 Detailed and up-to-date overview of my technical stack and know-how can be found on [my personal website](https://kacperwojciechowski.com/) under the "Skills" tab.
 
