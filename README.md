@@ -68,7 +68,7 @@ Detailed and up-to-date overview of my technical stack and know-how can be found
 
 # 💻 Projects
 
-> - [x] marks project as "finished" (completed / abandoned)
+> - [x] marks project as "finished"
 
 My main projects include:
 
@@ -92,10 +92,3 @@ My main projects include:
 Thesis:
 - [x] B.CS: [Methods of Implementing a Network Interface in IoT Modules](https://www.researchgate.net/publication/390465807_Methods_of_implementing_a_network_interface_in_IoT_modules)
 - [x] M.CS: [Comparative Analysis of Machine Learning Libraries in C++ for Applications in Biostatistics](https://www.researchgate.net/publication/382162127_Comparative_Analysis_of_Machine_Learning_Libraries_in_C_for_Applications_in_Biostatistics)
-
-# 📫 Contact
-
-If you have any questions, suggestions or cooperation propositions regarding my projects, feel free to contact me via email:
-  - `k.woj.coding@gmail.com`
-
-Any stars ⭐ and follows 👁️ would be appeciated 😃
