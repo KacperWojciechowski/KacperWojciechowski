@@ -10,5 +10,5 @@
 
 ## Completed video courses
 - [x] *The Extensive C++ Fundamentals and Algorithms Mastery Vault* by [Mammoth Interactive](https://mammoth-interactive.teachable.com)
-- [x] *The In-Depth Fundamentals and Algorithms Power Pack* by [Mammoth Interactive](https://mammoth-interactive.teachable.com)a
+- [x] *The In-Depth Fundamentals and Algorithms Power Pack* by [Mammoth Interactive](https://mammoth-interactive.teachable.com)
 - [x] *Clean Code* by Robert C. Martin - (part of onboarding at Nokia Solutions and Networks), available at [Clean Coders][https://cleancoders.com/library/all] 
